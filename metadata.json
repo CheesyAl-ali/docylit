@@ -1,0 +1,5 @@
+{
+  "name": "Docylit AI",
+  "description": "A Google Docs-inspired rich text editor featuring real-time local persistence and Gemini-powered writing assistance.",
+  "requestFramePermissions": []
+}
